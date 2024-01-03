@@ -1,14 +1,3 @@
-vless://1febfb75-f41e-4b02-9c0d-d456e190c97f@104.31.16.33:8443?security=tls&sni=kare.kanal-tel-nufilter.store&fp=firefox&type=ws&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&host=kare.kanal-tel-nufilter.store&encryption=none#%D9%86%D9%88%D9%86+%D8%B3%D9%86%DA%AF%DA%A9
-
-vless://0ae932ed-a628-4953-9397-4710a01e783a@all.vpncustomize.cam:443?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=‌ %40VPNCUSTOMIZE ‌&sni=FreeV2rayng.VPNCUSTOMIZE.tech#Telegram+%3A+@SRCVPN+%7C+All+1
-
-vless://0ae932ed-a628-4953-9397-4710a01e783a@all.vpncustomize.cam:443?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=%40VPNCUSTOMIZE&sni=FreeV2rayng.VPNCUSTOMIZE.online#Telegram+%3A+@SRCVPN+%7C+All+2
-
-vless://0ae932ed-a628-4953-9397-4710a01e783a@all.vpncustomize.cam:443?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=%40VPNCUSTOMIZE&sni=KingSpeedV2rayng.VPNCUSTOMIZE.tech#Telegram+%3A+@SRCVPN+%7C+All+3
-
-
-
-vless://0ae932ed-a628-4953-9397-4710a01e783a@all.vpncustomize.cam:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=High-speedV2ray.VPNCUSTOMIZE.online&type=ws#Telegram+%3A+@SRCVPN+%7C+All+4
 vless://a57f3fbc-221a-4f9b-89b6-7757c23e328b@104.16.29.8:8080?path=%2Fbackup&security=none&encryption=none&host=media.khamenei.bio&type=ws#
 
 vless://06538336-4cff-4802-831b-2e5f257d0e33@190.93.247.155:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=&sni=freakv22.tm-online.xyz#danyal
