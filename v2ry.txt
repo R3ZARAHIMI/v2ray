@@ -1,4 +1,1 @@
 vless://18e89040-5867-4e8b-8f4d-f0e4d91868b1@zula.ir:443?mode=multi&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&sni=baba.config-rayegan-nufilter.space#%D9%86%D9%88%D9%86+%D8%AE%D8%B4%DA%A9
-
-vless://7b9255ca-535d-44ca-dc53-e234921605d0@ip4.opeta.cfd:443?mode=multi&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&sni=kare.kanal-tel-nufilter.store#%D9%86%D9%88%D9%86+%D8%AE%D9%88%D9%86%DA%AF%DB%8C
-
