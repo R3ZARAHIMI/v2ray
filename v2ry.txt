@@ -1,9 +1,7 @@
 
 
 
-vless://09aaf01f-e094-4122-b812-56762c2e3a66@sdw1.lizard.icu:80?path=%2F&security=none&encryption=none&host=sdw.lizard.icu&type=ws#Mamamiamamasita
 
-dmxlc3M6Ly90ZWxlZ3JhbS1pZC1BclYycmF5QHYydGkuZnVuOjQ0Mz9tb2RlPWd1biZzZWN1cml0eT1yZWFsaXR5JmVuY3J5cHRpb249bm9uZSZwYms9LUJsTDJsaHpjQzkxTGpsdWdIWWdHRjYxWDN0SDNnVmh5Zk51RzZ0UVZpbyZmcD1maXJlZm94JnR5cGU9Z3JwYyZzZXJ2aWNlTmFtZT1AQXJWMnJheSxAQXJWMnJheSxAQXJWMnJheSxAQXJWMnJheSxAQXJWMnJheSxAQXJWMnJheSxAQXJWMnJheSxAQXJWMnJheSxAQXJWMnJheSxAQXJWMnJheSxAQXJWMnJheSxAQXJWMnJheSZzbmk9YXNlbW9vbmkuY29tJnNpZD0yODdmZDcyNiMlNDB2cG5iYXo=
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.11.83.207:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk 🇬🇧
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.132.56:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#  🇫🇷
