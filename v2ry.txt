@@ -22,9 +22,9 @@ trojan://telegram-id-privatevpns@13.38.222.108:22222?security=tls&alpn=http/1.1&
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%E6%B2%B9%E7%AE%A1%E7%BB%B5%E9%98%BF%E7%BE%8A_United%20Kingdom_ss_19
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@jseyu.arvancode.eu.org:443#%E6%B2%B9%E7%AE%A1%E7%BB%B5%E9%98%BF%E7%BE%8A_United%20Kingdom_ss_06
-vless://95878aa5-a695-4b88-b502-55c05c998cf2@104.27.41.157:443?security=tls&sni=lg1.dtku41.xyz&type=ws&path=/ugrlws&host=lg1.dtku41.xyz&encryption=none#%E6%B2%B9%E7%AE%A1%E7%BB%B5%E9%98%BF%E7%BE%8A_None_vless_5125
-vless://95878aa5-a695-4b88-b502-55c05c998cf2@198.41.216.62:443?security=tls&sni=lg1.dtku41.xyz&type=ws&path=/ugrlws&host=lg1.dtku41.xyz&encryption=none#%E6%B2%B9%E7%AE%A1%E7%BB%B5%E9%98%BF%E7%BE%8A_None_vless_576
-vless://95878aa5-a695-4b88-b502-55c05c998cf2@104.27.107.221:443?security=tls&sni=lg1.dtku41.xyz&type=ws&path=/ugrlws&host=lg1.dtku41.xyz&encryption=none#%E6%B2%B9%E7%AE%A1%E7%BB%B5%E9%98%BF%E7%BE%8A_None_vless_565
-vless://95878aa5-a695-4b88-b502-55c05c998cf2@104.24.16.226:443?security=tls&sni=lg1.dtku41.xyz&type=ws&path=/ugrlws&host=lg1.dtku41.xyz&encryption=none#%E6%B2%B9%E7%AE%A1%E7%BB%B5%E9%98%BF%E7%BE%8A_None_vless_5107
-vless://95878aa5-a695-4b88-b502-55c05c998cf2@188.114.97.19:443?security=tls&sni=lg1.dtku41.xyz&type=ws&path=/ugrlws&host=lg1.dtku41.xyz&encryption=none#%E6%B2%B9%E7%AE%A1%E7%BB%B5%E9%98%BF%E7%BE%8A_Netherlands_vless_529
-vless://95878aa5-a695-4b88-b502-55c05c998cf2@162.159.38.71:443?security=tls&sni=lg1.dtku41.xyz&type=ws&path=/ugrlws&host=lg1.dtku41.xyz&encryption=none#%E6%B2%B9%E7%AE%A1%E7%BB%B5%E9%98%BF%E7%BE%8A_None_vless_59
+vless://fb46bd6b-3727-4a46-b663-8dda740b27f6@68.183.9.196:5121?security=&type=grpc&serviceName=5121vless&encryption=none#%F0%9F%87%B3%F0%9F%87%B1NL%20%7C%20vless%20%7C%20@EliV2ray%20%7C%202
+
+hy2://4a52c165e81fa8fc@70.34.213.123:443?obfs=salamander&obfs-password=a16d0be0&insecure=1&sni=www.apple.com#%F0%9F%87%B8%F0%9F%87%AASE%20%7C%20hy2%20%7C%20@TUICity%20%7C%2057
+hy2://04979c3cfe2a7945@92.246.139.15:443?obfs=salamander&obfs-password=205ef172277d3292&insecure=1&sni=www.google.com#%F0%9F%87%A9%F0%9F%87%AADE%20%7C%20hy2%20%7C%20@TUICity%20%7C%2058
+hy2://9f73c619627d6a5d@66.245.192.15:443?obfs=salamander&obfs-password=bd7f765e&insecure=1&sni=www.apple.com#%F0%9F%87%AC%F0%9F%87%A7GB%20%7C%20hy2%20%7C%20@TUICity%20%7C%2059
+hy2://536a1e178ea00bf2@95.217.211.216:443?obfs=salamander&obfs-password=05462d067f21387c&insecure=1&sni=www.google.com#%F0%9F%87%AB%F0%9F%87%AEFI%20%7C%20hy2%20%7C%20@TUICity%20%7C%2060
