@@ -16,7 +16,7 @@ vless://HinaVPN@149.28.122.32:2080?security=&type=ws&path=/@HinaVPN,@HinaVPN,@Hi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%E2%9C%85
 
 trojan://telegram-id-directvpn@13.42.246.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
-
+trojan://telegram-id-privatevpns@13.48.213.144:22222?security=tls&sni=trojan.miwan.co.uk&alpn=http/1.1&type=tcp#(S111)%F0%9F%87%B8%F0%9F%87%AAt.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.38.222.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 
 
