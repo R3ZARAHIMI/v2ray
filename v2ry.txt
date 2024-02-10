@@ -18,3 +18,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha
 trojan://telegram-id-directvpn@13.42.246.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 
 trojan://telegram-id-privatevpns@13.38.222.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S106)🇨🇵t.me/PrivateVPNs
+
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%E6%B2%B9%E7%AE%A1%E7%BB%B5%E9%98%BF%E7%BE%8A_United%20Kingdom_ss_19
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@jseyu.arvancode.eu.org:443#%E6%B2%B9%E7%AE%A1%E7%BB%B5%E9%98%BF%E7%BE%8A_United%20Kingdom_ss_06
+vless://95878aa5-a695-4b88-b502-55c05c998cf2@104.27.41.157:443?security=tls&sni=lg1.dtku41.xyz&type=ws&path=/ugrlws&host=lg1.dtku41.xyz&encryption=none#%E6%B2%B9%E7%AE%A1%E7%BB%B5%E9%98%BF%E7%BE%8A_None_vless_5125
+vless://95878aa5-a695-4b88-b502-55c05c998cf2@198.41.216.62:443?security=tls&sni=lg1.dtku41.xyz&type=ws&path=/ugrlws&host=lg1.dtku41.xyz&encryption=none#%E6%B2%B9%E7%AE%A1%E7%BB%B5%E9%98%BF%E7%BE%8A_None_vless_576
+vless://95878aa5-a695-4b88-b502-55c05c998cf2@104.27.107.221:443?security=tls&sni=lg1.dtku41.xyz&type=ws&path=/ugrlws&host=lg1.dtku41.xyz&encryption=none#%E6%B2%B9%E7%AE%A1%E7%BB%B5%E9%98%BF%E7%BE%8A_None_vless_565
+vless://95878aa5-a695-4b88-b502-55c05c998cf2@104.24.16.226:443?security=tls&sni=lg1.dtku41.xyz&type=ws&path=/ugrlws&host=lg1.dtku41.xyz&encryption=none#%E6%B2%B9%E7%AE%A1%E7%BB%B5%E9%98%BF%E7%BE%8A_None_vless_5107
+vless://95878aa5-a695-4b88-b502-55c05c998cf2@188.114.97.19:443?security=tls&sni=lg1.dtku41.xyz&type=ws&path=/ugrlws&host=lg1.dtku41.xyz&encryption=none#%E6%B2%B9%E7%AE%A1%E7%BB%B5%E9%98%BF%E7%BE%8A_Netherlands_vless_529
+vless://95878aa5-a695-4b88-b502-55c05c998cf2@162.159.38.71:443?security=tls&sni=lg1.dtku41.xyz&type=ws&path=/ugrlws&host=lg1.dtku41.xyz&encryption=none#%E6%B2%B9%E7%AE%A1%E7%BB%B5%E9%98%BF%E7%BE%8A_None_vless_59
