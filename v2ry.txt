@@ -1,18 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%E2%9C%85
 
-trojan://telegram-id-directvpn@13.42.246.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
-trojan://telegram-id-privatevpns@13.48.213.144:22222?security=tls&sni=trojan.miwan.co.uk&alpn=http/1.1&type=tcp#(S111)%F0%9F%87%B8%F0%9F%87%AAt.me/PrivateVPNs
-trojan://telegram-id-privatevpns@13.38.222.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S106)🇨🇵t.me/PrivateVPNs
-
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%E6%B2%B9%E7%AE%A1%E7%BB%B5%E9%98%BF%E7%BE%8A_United%20Kingdom_ss_19
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@jseyu.arvancode.eu.org:443#%E6%B2%B9%E7%AE%A1%E7%BB%B5%E9%98%BF%E7%BE%8A_United%20Kingdom_ss_06
-vless://fb46bd6b-3727-4a46-b663-8dda740b27f6@68.183.9.196:5121?security=&type=grpc&serviceName=5121vless&encryption=none#%F0%9F%87%B3%F0%9F%87%B1NL%20%7C%20vless%20%7C%20@EliV2ray%20%7C%202
-
-hy2://4a52c165e81fa8fc@70.34.213.123:443?obfs=salamander&obfs-password=a16d0be0&insecure=1&sni=www.apple.com#%F0%9F%87%B8%F0%9F%87%AASE%20%7C%20hy2%20%7C%20@TUICity%20%7C%2057
-hy2://04979c3cfe2a7945@92.246.139.15:443?obfs=salamander&obfs-password=205ef172277d3292&insecure=1&sni=www.google.com#%F0%9F%87%A9%F0%9F%87%AADE%20%7C%20hy2%20%7C%20@TUICity%20%7C%2058
-hy2://9f73c619627d6a5d@66.245.192.15:443?obfs=salamander&obfs-password=bd7f765e&insecure=1&sni=www.apple.com#%F0%9F%87%AC%F0%9F%87%A7GB%20%7C%20hy2%20%7C%20@TUICity%20%7C%2059
-hy2://536a1e178ea00bf2@95.217.211.216:443?obfs=salamander&obfs-password=05462d067f21387c&insecure=1&sni=www.google.com#%F0%9F%87%AB%F0%9F%87%AEFI%20%7C%20hy2%20%7C%20@TUICity%20%7C%2060
+vless://f876f795-fced-4604-b190-4db485813c89@161.35.17.40:443?encryption=none&security=reality&sni=feat.agency&fp=firefox&pbk=RdG5aIJYY3zhj4rwssViQaohx4xKm4aT5Hsd9mMu2x4&sid=015aab49&type=grpc&serviceName=%40ipV2Ray&mode=gun#%F0%9F%94%92%20VL-GRPC-RLT%20%F0%9F%87%A9%F0%9F%87%AA%20DE-161.35.17.40%3A443%20%F0%9F%93%A1%20PING-096.21-MS
 
 
 hy2://dongtaiwang.com@62.210.103.0:22483/?insecure=1&sni=www.bing.com#France, Neuilly-sur-Seine
@@ -24,13 +12,3 @@ hysteria://51.158.54.46:55396/?insecure=1&peer=youku.com&auth=dongtaiwang.com&up
 hysteria://173.234.25.52:48919/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#United States, Los Angeles
 hysteria://www.dtku40.xyz:18490/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=55&downmbps=110&alpn=h3#Taiwan, New Taipei
 
-
-vless://6b27952c-0b76-4d6d-c27a-11e16814d464@irsell.ir:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&sni=go-to-hell.savarkaraan.ir#%40NUFiLTER1%EF%B8%8F%E2%83%A3%F0%9F%92%9C
-
-vless://5cf984d0-128c-4f67-9217-e5531266ce8f@CHeCk-hOst.nEt:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&sni=iP116.sAvaRkarAAn.iR#%40NUFiLTER2%EF%B8%8F%E2%83%A3%E2%9D%A4
-
-vless://1f188005-8913-431e-9ab5-08eaf1932006@check-host.net:8080?path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER?ed=2048&security=none&encryption=none&host=iP116.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.wIkI&type=ws#%40NUFiLTER3%EF%B8%8F%E2%83%A3%F0%9F%92%9B
-
-vless://4d325f13-98d8-449b-bdea-2e636069b395@check-hOst.net:80?path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER?ed=2048&security=none&encryption=none&host=asasabbbbi.shodam.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.wiki&type=ws#%40NUFiLTER4%EF%B8%8F%E2%83%A3%F0%9F%92%99
-
-vless://9b2bb5eb-1c7d-48ea-cd9b-c381fa8122a3@iranserver.com:8880?path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER?ed=2048&security=none&encryption=none&host=ikashani.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.wiki&type=ws#%40NUFiLTER5%EF%B8%8F%E2%83%A3%F0%9F%96%A4
